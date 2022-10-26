@@ -7,12 +7,12 @@
 
 /* The smaller of the titles on each Forge/webform page. This usually contains your Organization name */
 #header-title {
-  color: blue;
+  color: yellow;
 }
 
 /* The larger of the titles on each Forge/webform page. This usually contains the title of the webform itself */
 #page-title {
-  color: cadetblue;
+  color: green;
 }
 
 /* Controls the border underneath `#page-title`. This is usually the Anvil green color. */
